@@ -4,7 +4,7 @@
 
 - -[ ] Symfony
 - -[ ] NodeJS
-- -[ ] React-Native
+- -[x] React-Native
 
 ## Routes :
 
