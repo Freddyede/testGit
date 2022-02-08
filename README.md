@@ -2,7 +2,7 @@
 
 ## <u>Langages :</u>
 
-- -[ ] Symfony
+- -[x] Symfony
 - -[ ] NodeJS
 - -[ ] React-Native
 
