@@ -3,7 +3,7 @@
 ## <u>Langages :</u>
 
 - -[ ] Symfony
-- -[ ] NodeJS
+- -[x] NodeJS
 - -[ ] React-Native
 
 ## Routes :
