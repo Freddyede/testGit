@@ -1,1 +1,4 @@
 ca9e75,127.0.0.1,GET,https://127.0.0.1:8000/,1644354409,,404
+fd6ee6,127.0.0.1,GET,https://localhost:8000/,1644354536,,404
+4ed502,127.0.0.1,GET,https://localhost:8000/favicon.ico,1644354537,f64df6,404
+f64df6,127.0.0.1,GET,https://localhost:8000/favicon.ico,1644354537,,404
